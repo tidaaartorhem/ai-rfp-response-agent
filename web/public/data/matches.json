@@ -1,0 +1,2234 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "The suite must include all necessary software, training, hardware (if required), and ongoing support services to achieve successful implementation and Go-Live.",
+    "entry_id": "ANS-001",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Complete suite scope through Go-Live",
+    "confidence": 58.1,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.7692,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "hardware",
+        "implementation",
+        "live",
+        "ongoing",
+        "required",
+        "services",
+        "software",
+        "suite",
+        "support",
+        "training"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-002",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "The proposal must include software, technical labor, training, hardware (as needed), and ongoing support and maintenance that meet the County's business needs.",
+    "entry_id": "ANS-006",
+    "entry_owner": "Professional Services",
+    "entry_title": "Included services: labor, software, hardware, training",
+    "confidence": 77.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7143,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "county",
+        "hardware",
+        "labor",
+        "needs",
+        "ongoing",
+        "proposal",
+        "software",
+        "technical",
+        "training"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-003",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "The selected Financial ERP System must integrate seamlessly with the Human Capital Management (HCM) system or satisfy both primary systems within a unified solution.",
+    "entry_id": "ANS-003",
+    "entry_owner": "Product Team",
+    "entry_title": "ERP/HCM unified platform",
+    "confidence": 56.7,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.7333,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "capital",
+        "erp",
+        "financial",
+        "hcm",
+        "human",
+        "integrate",
+        "satisfy",
+        "seamlessly",
+        "selected",
+        "solution",
+        "unified"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-004",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must demonstrate how their solution will integrate with the County's existing critical business systems and any selected ancillary systems (Taxation, Utility Billing, Enterprise Land Management, Budgeting, Time and Attendance).",
+    "entry_id": "ANS-004",
+    "entry_owner": "Integration Team",
+    "entry_title": "Integration with existing county systems",
+    "confidence": 37.5,
+    "action": "NO_ANSWER",
+    "disposition": "UNADDRESSED",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "ancillary",
+        "business",
+        "county",
+        "critical",
+        "demonstrate",
+        "existing",
+        "integrate",
+        "systems"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-005",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors proposing ancillary or third-party solutions must provide detailed integration plans showing how their systems work with the selected primary system(s) as a fully integrated enterprise suite.",
+    "entry_id": "ANS-005",
+    "entry_owner": "Integration Team",
+    "entry_title": "Ancillary and third-party integration plans",
+    "confidence": 62.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.45,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "ancillary",
+        "detailed",
+        "integration",
+        "party",
+        "plans",
+        "primary",
+        "provide",
+        "systems",
+        "third"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-006",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "All proposals must include technical labor, software, hardware (if applicable), training, implementation, and integration services.",
+    "entry_id": "ANS-006",
+    "entry_owner": "Professional Services",
+    "entry_title": "Included services: labor, software, hardware, training",
+    "confidence": 84.6,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.8,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "hardware",
+        "implementation",
+        "integration",
+        "labor",
+        "services",
+        "software",
+        "technical",
+        "training"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-007",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "All proposals must include a detailed staffing plan and an estimate of required County staff involvement, including hours and roles for implementation and ongoing support.",
+    "entry_id": "ANS-007",
+    "entry_owner": "Professional Services",
+    "entry_title": "County staff involvement estimate",
+    "confidence": 69.5,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5714,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "county",
+        "estimate",
+        "hours",
+        "involvement",
+        "plan",
+        "roles",
+        "staff",
+        "staffing"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-008",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Desired",
+    "requirement_text": "The Financial ERP solution should include accounts payable, expense reimbursement, accounts receivable, budget creation and adjustments, capital project management, and fixed asset management.",
+    "entry_id": "ANS-008",
+    "entry_owner": "Product Team",
+    "entry_title": "Financial ERP: AP/AR/budget/assets",
+    "confidence": 85.6,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.8125,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "accounts",
+        "asset",
+        "budget",
+        "capital",
+        "erp",
+        "expense",
+        "financial",
+        "fixed",
+        "management",
+        "payable",
+        "project",
+        "receivable",
+        "reimbursement"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-009",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Desired",
+    "requirement_text": "The Financial ERP solution should include grants management, financial control with journal entry processing, bank reconciliation, cash management, and investment management.",
+    "entry_id": "ANS-009",
+    "entry_owner": "Product Team",
+    "entry_title": "Financial ERP: grants, journals, cash",
+    "confidence": 86.9,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.8462,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "bank",
+        "cash",
+        "control",
+        "entry",
+        "erp",
+        "financial",
+        "grants",
+        "investment",
+        "journal",
+        "management",
+        "reconciliation"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-010",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Desired",
+    "requirement_text": "The Financial ERP solution should include purchase requisition and purchase order management, and procurement including solicitation, contract, change order, and vendor management.",
+    "entry_id": "ANS-010",
+    "entry_owner": "Product Team",
+    "entry_title": "Financial ERP: procurement suite",
+    "confidence": 91.1,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.9167,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "change",
+        "contract",
+        "erp",
+        "financial",
+        "management",
+        "order",
+        "procurement",
+        "purchase",
+        "requisition",
+        "solicitation",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-011",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Desired",
+    "requirement_text": "The HCM solution should include recruitment and onboarding, time and attendance tracking, payroll and benefits administration, and employee management with position control, performance management, professional development, risk management, and policy compliance.",
+    "entry_id": "ANS-011",
+    "entry_owner": "Product Team",
+    "entry_title": "HCM: hire-to-retire suite",
+    "confidence": 71.3,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "administration",
+        "attendance",
+        "benefits",
+        "control",
+        "employee",
+        "hcm",
+        "onboarding",
+        "payroll",
+        "performance",
+        "policy",
+        "position",
+        "time"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-012",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Desired",
+    "requirement_text": "The HCM solution should accurately track and account for all employee time and attendance data, including the ability to import time and attendance data from departmental systems.",
+    "entry_id": "ANS-012",
+    "entry_owner": "Product Team",
+    "entry_title": "Time and attendance with imports",
+    "confidence": 79.6,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7692,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "account",
+        "accurately",
+        "attendance",
+        "data",
+        "departmental",
+        "employee",
+        "import",
+        "systems",
+        "time",
+        "track"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-013",
+    "section": "Scope of Work",
+    "category": "scope",
+    "priority": "Mandatory",
+    "requirement_text": "Employees must have the ability to submit corrections to their timesheets within an open pay period.",
+    "entry_id": "ANS-013",
+    "entry_owner": "Product Team",
+    "entry_title": "Timesheet corrections in open pay period",
+    "confidence": 79.1,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.75,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "corrections",
+        "employees",
+        "open",
+        "pay",
+        "period",
+        "timesheets"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-014",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Each proposal must include all costs, incidental or otherwise, including estimated travel costs, for software, hardware, end-user training, and technical labor.",
+    "entry_id": "ANS-002",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "All-inclusive proposal pricing",
+    "confidence": 59.6,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6923,
+      "exact_phrase_hit": true,
+      "category_boost_applied": false,
+      "shared_keywords": [
+        "costs",
+        "end",
+        "incidental",
+        "labor",
+        "proposal",
+        "software",
+        "training",
+        "travel",
+        "user"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-015",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must provide one bound, signed ORIGINAL copy and six bound copies of the narrative proposal.",
+    "entry_id": "ANS-015",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Hard-copy and electronic submittal format",
+    "confidence": 71.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "bound",
+        "copies",
+        "copy",
+        "narrative",
+        "original",
+        "signed"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-016",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must provide a flash drive with an electronic version of the complete proposal in non-editable Adobe PDF format, labeled with the business name.",
+    "entry_id": "ANS-015",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Hard-copy and electronic submittal format",
+    "confidence": 47.3,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5625,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "drive",
+        "editable",
+        "electronic",
+        "flash",
+        "format",
+        "labeled",
+        "non",
+        "pdf"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-017",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "All hard-copy proposals must be submitted in a sealed envelope marked 'Sealed Proposals of (entity) - Implementation Services for Integrated Enterprise Software Systems', with legal name, address, and telephone number on the envelope.",
+    "entry_id": "ANS-016",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Sealed-envelope submission and deadline",
+    "confidence": 64.9,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4737,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "address",
+        "envelope",
+        "legal",
+        "marked",
+        "name",
+        "number",
+        "sealed",
+        "submitted",
+        "telephone"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-018",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Proposals must be received by the Deputy County Administrator no later than May 9, 2025, at 2:00 PM EST.",
+    "entry_id": "ANS-022",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Executive Summary narrative",
+    "confidence": 21.9,
+    "action": "NO_ANSWER",
+    "disposition": "UNADDRESSED",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.125,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "county"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-019",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "An official authorized to bind the vendor must sign the original proposal copy.",
+    "entry_id": "ANS-015",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Hard-copy and electronic submittal format",
+    "confidence": 50.8,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.625,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "authorized",
+        "bind",
+        "copy",
+        "official",
+        "original"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-020",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "All communications (questions, concerns, protests) concerning the RFP must be submitted in writing via email to the RFP Coordinator.",
+    "entry_id": "ANS-025",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Written communications via RFP Coordinator",
+    "confidence": 65.5,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "communications",
+        "coordinator",
+        "email",
+        "rfp",
+        "writing"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-021",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must complete the Vendor Proposal Identification Schedule identifying which Enterprise Software Systems they are offering.",
+    "entry_id": "ANS-018",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Systems offered identification",
+    "confidence": 81.0,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7273,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "enterprise",
+        "identification",
+        "offering",
+        "proposal",
+        "schedule",
+        "software",
+        "systems",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-022",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must include a Transmittal Letter with an expression of interest, naming the person(s) authorized to represent the vendor in negotiations and legally authorized to sign the contract.",
+    "entry_id": "ANS-017",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Transmittal letter with authorized signatory",
+    "confidence": 80.9,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7692,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "authorized",
+        "contract",
+        "interest",
+        "legally",
+        "letter",
+        "negotiations",
+        "person",
+        "represent",
+        "sign",
+        "transmittal"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-023",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "The Transmittal Letter must be signed by the vendor's authorized representative and include the email address and telephone number.",
+    "entry_id": "ANS-017",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Transmittal letter with authorized signatory",
+    "confidence": 76.8,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "authorized",
+        "email",
+        "letter",
+        "representative",
+        "signed",
+        "telephone",
+        "transmittal"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-024",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "The Transmittal Letter must indicate the system solution(s) the vendor would like to offer within the RFP.",
+    "entry_id": "ANS-018",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Systems offered identification",
+    "confidence": 49.1,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "indicate",
+        "letter",
+        "offer",
+        "rfp",
+        "transmittal",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-025",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must complete and submit the Requirements Traceability Matrices (RTMs) relevant to their proposed solutions in the original Excel format.",
+    "entry_id": "ANS-019",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Completed RTMs in native Excel",
+    "confidence": 81.5,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7692,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "complete",
+        "excel",
+        "original",
+        "proposed",
+        "relevant",
+        "requirements",
+        "rtms",
+        "solutions",
+        "submit",
+        "traceability"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-026",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Proposals must address all requested sections and be presented in the same order as the RFP.",
+    "entry_id": "ANS-020",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Proposal organized to RFP order",
+    "confidence": 46.4,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5714,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "order",
+        "requested",
+        "rfp",
+        "sections"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-027",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must provide details of five client references.",
+    "entry_id": "ANS-021",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Five client references",
+    "confidence": 75.7,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6667,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "client",
+        "five",
+        "provide",
+        "references"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-028",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must include an Executive Summary as a brief narrative describing the proposed solution(s) being offered.",
+    "entry_id": "ANS-022",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Executive Summary narrative",
+    "confidence": 48.1,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5556,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "executive",
+        "narrative",
+        "proposed",
+        "solution",
+        "summary"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-029",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must provide sample contract documents including Software License, SaaS fees, third-party agreements, maintenance, services, SLAs, and remote access terms.",
+    "entry_id": "ANS-023",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Sample contract documents",
+    "confidence": 86.1,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.8333,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "access",
+        "agreements",
+        "contract",
+        "documents",
+        "fees",
+        "license",
+        "maintenance",
+        "party",
+        "remote",
+        "saas",
+        "sample",
+        "services",
+        "software",
+        "terms",
+        "third"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-030",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must prepare a separate, stand-alone Cost Proposal with itemized pricing through Go-Live plus recurring annual costs.",
+    "entry_id": "ANS-014",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Standalone itemized Cost Proposal",
+    "confidence": 75.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6429,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "annual",
+        "cost",
+        "costs",
+        "itemized",
+        "live",
+        "plus",
+        "pricing",
+        "proposal",
+        "recurring"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-031",
+    "section": "Proposal Submittal",
+    "category": "submittal",
+    "priority": "Mandatory",
+    "requirement_text": "Vendors must be prepared to demonstrate the proposed solution in production to the County's Selection Committee and answer implementation and support questions.",
+    "entry_id": "ANS-024",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Production system demonstration",
+    "confidence": 62.9,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4615,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "committee",
+        "implementation",
+        "production",
+        "questions",
+        "selection",
+        "support"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-032",
+    "section": "Vendor Qualifications",
+    "category": "qualifications",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must demonstrate and provide evidence of the full spectrum of capabilities, experience, professional staff, and expertise to deliver the products and professional services described.",
+    "entry_id": "ANS-026",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Vendor capability and experience",
+    "confidence": 45.7,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5333,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "capabilities",
+        "evidence",
+        "experience",
+        "expertise",
+        "full",
+        "spectrum",
+        "staff",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-033",
+    "section": "Vendor Qualifications",
+    "category": "qualifications",
+    "priority": "Mandatory",
+    "requirement_text": "If multiple firms partner on a joint proposal, the proposal must clearly identify one firm as the primary vendor who will manage the contract.",
+    "entry_id": "ANS-027",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Primary vendor designation",
+    "confidence": 65.8,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "contract",
+        "joint",
+        "manage",
+        "primary",
+        "proposal",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-034",
+    "section": "Vendor Qualifications",
+    "category": "qualifications",
+    "priority": "Mandatory",
+    "requirement_text": "A primary vendor must be identified for the implementation process.",
+    "entry_id": "ANS-027",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Primary vendor designation",
+    "confidence": 39.5,
+    "action": "NO_ANSWER",
+    "disposition": "UNADDRESSED",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "primary",
+        "vendor"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-035",
+    "section": "Staffing Plan",
+    "category": "staffing",
+    "priority": "Mandatory",
+    "requirement_text": "The Staffing Plan must designate the Principal or Project Manager with direct and continued responsibility for the project.",
+    "entry_id": "ANS-028",
+    "entry_owner": "Professional Services",
+    "entry_title": "Named Project Manager",
+    "confidence": 76.1,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6667,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "continued",
+        "direct",
+        "manager",
+        "principal",
+        "project",
+        "responsibility"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-036",
+    "section": "Staffing Plan",
+    "category": "staffing",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must detail all personnel assigned to the implementation team, including each individual's job responsibilities for this project.",
+    "entry_id": "ANS-029",
+    "entry_owner": "Professional Services",
+    "entry_title": "Implementation team roster",
+    "confidence": 50.2,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "assigned",
+        "implementation",
+        "personnel",
+        "project",
+        "responsibilities",
+        "team"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-037",
+    "section": "Staffing Plan",
+    "category": "staffing",
+    "priority": "Mandatory",
+    "requirement_text": "The Staffing Plan must include an overall project management approach and project organizational structure identifying anticipated County staff involvement.",
+    "entry_id": "ANS-030",
+    "entry_owner": "Professional Services",
+    "entry_title": "Project management approach and org structure",
+    "confidence": 76.9,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6923,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "approach",
+        "county",
+        "management",
+        "organizational",
+        "plan",
+        "project",
+        "staff",
+        "staffing",
+        "structure"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-038",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide an implementation plan in narrative format detailing how the proposed solution is to be implemented, supported by an activity-level project plan.",
+    "entry_id": "ANS-031",
+    "entry_owner": "Professional Services",
+    "entry_title": "Narrative implementation plan with schedule",
+    "confidence": 62.1,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4286,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "activity",
+        "implementation",
+        "level",
+        "narrative",
+        "plan",
+        "project"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-039",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The general implementation approach must describe the project methodology for delivering on time, within the proposed budget, and meeting the unique needs of a public-sector client.",
+    "entry_id": "ANS-032",
+    "entry_owner": "Professional Services",
+    "entry_title": "Public-sector delivery methodology",
+    "confidence": 32.9,
+    "action": "NO_ANSWER",
+    "disposition": "UNADDRESSED",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.3125,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "budget",
+        "methodology",
+        "public",
+        "sector",
+        "time"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-040",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide a Data Conversion Plan for converting both electronic and manual data sources.",
+    "entry_id": "ANS-033",
+    "entry_owner": "Professional Services",
+    "entry_title": "Data Conversion Plan",
+    "confidence": 67.8,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5556,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "conversion",
+        "data",
+        "manual",
+        "plan",
+        "sources"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-041",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide an approach to Report Development for the proposed solution(s).",
+    "entry_id": "ANS-034",
+    "entry_owner": "Professional Services",
+    "entry_title": "Report development approach",
+    "confidence": 40.2,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.4286,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "approach",
+        "development",
+        "report"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-042",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide a plan for Integration and Interfaces.",
+    "entry_id": "ANS-035",
+    "entry_owner": "Integration Team",
+    "entry_title": "Integration and Interfaces plan",
+    "confidence": 73.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "integration",
+        "interfaces",
+        "plan"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-043",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must describe the recommended approach to testing (unit, integration, system, user acceptance) and the level of County staff engagement in each.",
+    "entry_id": "ANS-036",
+    "entry_owner": "Professional Services",
+    "entry_title": "Testing approach with UAT gate",
+    "confidence": 73.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6429,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "acceptance",
+        "approach",
+        "county",
+        "integration",
+        "staff",
+        "system",
+        "testing",
+        "unit",
+        "user"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-044",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide training programs so all end-users understand the core functionality of the solution(s) and can execute the associated workflows.",
+    "entry_id": "ANS-037",
+    "entry_owner": "Professional Services",
+    "entry_title": "Role-based training program",
+    "confidence": 49.7,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6154,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "core",
+        "end",
+        "functionality",
+        "programs",
+        "training",
+        "understand",
+        "users",
+        "workflows"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-045",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must list the nature, level, and amount of training provided, with general timeframes for each training type.",
+    "entry_id": "ANS-038",
+    "entry_owner": "Professional Services",
+    "entry_title": "Training scope and timeframes",
+    "confidence": 73.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "amount",
+        "general",
+        "level",
+        "nature",
+        "timeframes",
+        "training"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-046",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide user manuals and online help as part of initial training and ongoing operational support.",
+    "entry_id": "ANS-039",
+    "entry_owner": "Professional Services",
+    "entry_title": "User manuals and online help",
+    "confidence": 80.8,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.75,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "help",
+        "manuals",
+        "ongoing",
+        "online",
+        "operational",
+        "part",
+        "provide",
+        "support",
+        "user"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-047",
+    "section": "Implementation Plan",
+    "category": "implementation",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must comply with Attachment 1 (System Requirements) to meet the County's business needs.",
+    "entry_id": "ANS-040",
+    "entry_owner": "Solution Delivery",
+    "entry_title": "Attachment 1 requirements coverage",
+    "confidence": 75.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6667,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "attachment",
+        "business",
+        "county",
+        "needs",
+        "requirements",
+        "system"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-048",
+    "section": "Ongoing Support Services",
+    "category": "support",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must specify the nature and conditions of all post-implementation support options.",
+    "entry_id": "ANS-041",
+    "entry_owner": "Support Operations",
+    "entry_title": "Post-implementation support terms",
+    "confidence": 58.5,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.375,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "implementation",
+        "post",
+        "support"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-049",
+    "section": "Ongoing Support Services",
+    "category": "support",
+    "priority": "Mandatory",
+    "requirement_text": "The solution must provide ongoing support and maintenance that meets the County's business needs after Go-Live.",
+    "entry_id": "ANS-042",
+    "entry_owner": "Support Operations",
+    "entry_title": "Ongoing maintenance and support",
+    "confidence": 50.2,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "county",
+        "live",
+        "maintenance",
+        "ongoing",
+        "support"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-050",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must comply with all applicable federal, Commonwealth of Virginia, and local laws, as well as industry best practices, to ensure the security of all county data.",
+    "entry_id": "ANS-043",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Information security program",
+    "confidence": 42.5,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "applicable",
+        "best",
+        "commonwealth",
+        "comply",
+        "federal",
+        "laws",
+        "practices",
+        "security"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-051",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must maintain an information security program with the minimum required controls for the duration of the contract or as required by law.",
+    "entry_id": "ANS-044",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Minimum security controls maintained",
+    "confidence": 63.6,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4545,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "controls",
+        "minimum",
+        "program",
+        "required",
+        "security"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-052",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide evidence, no less than annually, of penetration testing performed by an external qualified information security firm, including results, risks identified, and remediation activities.",
+    "entry_id": "ANS-045",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Annual external penetration testing",
+    "confidence": 40.0,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.4444,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "annually",
+        "evidence",
+        "external",
+        "firm",
+        "penetration",
+        "qualified",
+        "remediation",
+        "testing"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-053",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The solution must be Payment Card Industry Data Security Standard (PCI DSS) compliant to protect payment card transactions, with an attestation of compliance provided annually.",
+    "entry_id": "ANS-046",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "PCI DSS compliance and attestation",
+    "confidence": 65.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "annually",
+        "attestation",
+        "card",
+        "compliance",
+        "compliant",
+        "dss",
+        "payment",
+        "pci"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-054",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The solution must be HIPAA compliant to ensure the security and privacy of Protected Health Information (PHI), with an attestation of compliance provided annually.",
+    "entry_id": "ANS-047",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "HIPAA compliance and attestation",
+    "confidence": 72.7,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6429,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "annually",
+        "attestation",
+        "compliance",
+        "compliant",
+        "health",
+        "hipaa",
+        "information",
+        "phi",
+        "protected"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-055",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The solution must comply with IRS Publication 1075 for the security of Federal Taxpayer Information (FTI), including access control, audit logging, and physical security measures.",
+    "entry_id": "ANS-048",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "IRS Publication 1075 compliance",
+    "confidence": 81.9,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.75,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "1075",
+        "access",
+        "audit",
+        "control",
+        "federal",
+        "information",
+        "irs",
+        "logging",
+        "physical",
+        "publication",
+        "security",
+        "taxpayer"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-056",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "In the event of a data breach, the vendor must take immediate and decisive action to mitigate risks, ensure transparency, and comply with all applicable legal and regulatory requirements.",
+    "entry_id": "ANS-049",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Data breach response plan",
+    "confidence": 41.5,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.4706,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "breach",
+        "data",
+        "event",
+        "immediate",
+        "legal",
+        "mitigate",
+        "regulatory",
+        "transparency"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-057",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must maintain adequate cyber liability insurance coverage for the duration of the contract, with the County named as an additional insured and proof of coverage provided upon request and annually.",
+    "entry_id": "ANS-050",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Cyber liability insurance with County as additional insured",
+    "confidence": 65.3,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "additional",
+        "county",
+        "coverage",
+        "cyber",
+        "insurance",
+        "insured",
+        "liability",
+        "proof",
+        "request"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-058",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must submit documentation detailing their security controls, disaster recovery plan, and data retention policies as part of their proposal.",
+    "entry_id": "ANS-051",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Security, DR, and retention documentation",
+    "confidence": 73.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6429,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "controls",
+        "data",
+        "disaster",
+        "documentation",
+        "plan",
+        "proposal",
+        "recovery",
+        "retention",
+        "security"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-059",
+    "section": "Information Security",
+    "category": "security",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor's solution must adapt to evolving cybersecurity threats and comply with any new security requirements established by the locality over the course of the contract.",
+    "entry_id": "ANS-052",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Continuous threat adaptation",
+    "confidence": 51.9,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.6429,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "adapt",
+        "comply",
+        "contract",
+        "evolving",
+        "locality",
+        "new",
+        "requirements",
+        "security",
+        "threats"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-060",
+    "section": "Disaster Recovery",
+    "category": "dr",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must have an established Disaster Recovery (DR) and Business Continuity (BC) Program with supporting plans to ensure minimal disruption of services in the event of system failures, cyberattacks, or natural disasters.",
+    "entry_id": "ANS-053",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "DR and Business Continuity Program",
+    "confidence": 54.6,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.3158,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "continuity",
+        "disaster",
+        "plans",
+        "program",
+        "recovery"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-061",
+    "section": "Disaster Recovery",
+    "category": "dr",
+    "priority": "Mandatory",
+    "requirement_text": "The solution must have redundant backup solutions, including off-site and cloud-based backups separated geographically from any primary solutions by at least 100 miles.",
+    "entry_id": "ANS-054",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Geographically separated redundant backups",
+    "confidence": 58.8,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.7692,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "100",
+        "backup",
+        "backups",
+        "cloud",
+        "geographically",
+        "miles",
+        "primary",
+        "redundant",
+        "separated",
+        "site"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-062",
+    "section": "Data Retention",
+    "category": "retention",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must comply with the Virginia Public Records Act (VPRA) for data retention and destruction.",
+    "entry_id": "ANS-055",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "VPRA-compliant retention and destruction",
+    "confidence": 92.3,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.9,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "act",
+        "comply",
+        "data",
+        "destruction",
+        "public",
+        "records",
+        "retention",
+        "virginia",
+        "vpra"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-063",
+    "section": "Data Retention",
+    "category": "retention",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide the locality with the ability to retrieve, export, and verify the deletion of data upon request.",
+    "entry_id": "ANS-056",
+    "entry_owner": "Product Team",
+    "entry_title": "Data export and verified deletion",
+    "confidence": 45.0,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5455,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "data",
+        "deletion",
+        "export",
+        "request",
+        "retrieve",
+        "verify"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-064",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide monthly uptime reports and real-time service status dashboards for the solution.",
+    "entry_id": "ANS-057",
+    "entry_owner": "Support Operations",
+    "entry_title": "Monthly uptime reports and status dashboard",
+    "confidence": 75.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6364,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "monthly",
+        "real",
+        "reports",
+        "service",
+        "status",
+        "time",
+        "uptime"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-065",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide at least five (5) business days' advance notice for low-impact planned maintenance activities.",
+    "entry_id": "ANS-058",
+    "entry_owner": "Support Operations",
+    "entry_title": "Tiered maintenance notice windows",
+    "confidence": 67.9,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5385,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "days",
+        "five",
+        "impact",
+        "low",
+        "maintenance",
+        "notice"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-066",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide at least ten (10) business days' advance notice for moderate-impact planned maintenance activities.",
+    "entry_id": "ANS-058",
+    "entry_owner": "Support Operations",
+    "entry_title": "Tiered maintenance notice windows",
+    "confidence": 67.1,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5385,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "business",
+        "days",
+        "impact",
+        "maintenance",
+        "moderate",
+        "notice",
+        "ten"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-067",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "For high-impact changes, the vendor must provide at least thirty (30) days' advance notice and coordinate closely with the County.",
+    "entry_id": "ANS-058",
+    "entry_owner": "Support Operations",
+    "entry_title": "Tiered maintenance notice windows",
+    "confidence": 62.9,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4615,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "changes",
+        "days",
+        "high",
+        "impact",
+        "notice",
+        "thirty"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-068",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must perform periodic service check-in meetings to review system performance, outstanding issues, scheduled downtime, and future enhancements, at a minimum on a quarterly basis.",
+    "entry_id": "ANS-059",
+    "entry_owner": "Support Operations",
+    "entry_title": "Quarterly service check-ins",
+    "confidence": 61.2,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.4444,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "check",
+        "issues",
+        "meetings",
+        "performance",
+        "quarterly",
+        "review",
+        "scheduled",
+        "service"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-069",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide a summary report of each check-in meeting, including key takeaways, action items, and agreed-upon resolutions.",
+    "entry_id": "ANS-060",
+    "entry_owner": "Support Operations",
+    "entry_title": "Check-in summary reports",
+    "confidence": 76.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6923,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "action",
+        "agreed",
+        "check",
+        "items",
+        "key",
+        "report",
+        "resolutions",
+        "summary",
+        "takeaways"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-070",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must participate in an annual service review to assess overall service effectiveness, contract adherence, and strategic alignment.",
+    "entry_id": "ANS-061",
+    "entry_owner": "Support Operations",
+    "entry_title": "Annual service review",
+    "confidence": 82.1,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.75,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "adherence",
+        "alignment",
+        "annual",
+        "contract",
+        "effectiveness",
+        "participate",
+        "review",
+        "service",
+        "strategic"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-071",
+    "section": "Availability & Service Mgmt",
+    "category": "availability",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must provide evidence of adherence to required security controls, including annual penetration testing results, audit reports, and compliance documentation.",
+    "entry_id": "ANS-062",
+    "entry_owner": "InfoSec Office",
+    "entry_title": "Annual security control evidence",
+    "confidence": 69.4,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "adherence",
+        "annual",
+        "audit",
+        "compliance",
+        "evidence",
+        "penetration",
+        "provide",
+        "reports",
+        "security"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-072",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "The successful offeror must carry public liability insurance at least in the amounts specified, deliver Certificates of Insurance from acceptable carriers, and give the County 30 days' notice of cancellation of coverage.",
+    "entry_id": "ANS-063",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Public liability insurance and certificates",
+    "confidence": 69.5,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5789,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "cancellation",
+        "carriers",
+        "carry",
+        "certificates",
+        "county",
+        "days",
+        "deliver",
+        "insurance",
+        "liability",
+        "notice",
+        "public"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-073",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "The vendor must maintain cyber liability and technology errors and omissions insurance in at least the specified amounts for the duration of the contract.",
+    "entry_id": "ANS-050",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Cyber liability insurance with County as additional insured",
+    "confidence": 53.8,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.5385,
+      "exact_phrase_hit": true,
+      "category_boost_applied": false,
+      "shared_keywords": [
+        "cyber",
+        "errors",
+        "insurance",
+        "liability",
+        "omissions",
+        "specified",
+        "technology"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-074",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "The successful offeror must indemnify and hold the County and its employees and agents harmless against all liability, claims, damages, and costs attributable to the contractor's work.",
+    "entry_id": "ANS-065",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Indemnification of the County",
+    "confidence": 76.7,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6667,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "agents",
+        "claims",
+        "costs",
+        "county",
+        "damages",
+        "employees",
+        "harmless",
+        "hold",
+        "indemnify",
+        "liability"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-075",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "The successful offeror must pay all state, local, and federal taxes; taxes are an obligation of the offeror and not of the County.",
+    "entry_id": "ANS-064",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Tax obligation and hold-harmless",
+    "confidence": 75.7,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.6667,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "county",
+        "federal",
+        "local",
+        "obligation",
+        "state",
+        "taxes"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-076",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "Payment will be rendered to the successful offeror within forty-five (45) days after receipt of a proper itemized invoice.",
+    "entry_id": "ANS-066",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Itemized invoicing, net-45 payment",
+    "confidence": 67.0,
+    "action": "EDIT_THEN_SUBMIT",
+    "disposition": "PARTIALLY_COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.5455,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "days",
+        "invoice",
+        "itemized",
+        "payment",
+        "proper",
+        "receipt"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-077",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "Each offeror must acknowledge receipt of every addendum issued by the County in its proposal.",
+    "entry_id": "ANS-067",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Addendum acknowledgment",
+    "confidence": 54.3,
+    "action": "SME_NEEDED",
+    "disposition": "DEVIATE",
+    "needs_gate": true,
+    "score_breakdown": {
+      "keyword_overlap": 0.7143,
+      "exact_phrase_hit": false,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "acknowledge",
+        "addendum",
+        "county",
+        "issued",
+        "proposal"
+      ]
+    }
+  },
+  {
+    "requirement_id": "REQ-078",
+    "section": "General Terms",
+    "category": "contract",
+    "priority": "Mandatory",
+    "requirement_text": "An offeror organized as a corporation, LLC, or partnership must be authorized to transact business in the Commonwealth and include its Virginia State Corporation Commission identification number.",
+    "entry_id": "ANS-068",
+    "entry_owner": "Contracts & Compliance",
+    "entry_title": "Virginia SCC authorization",
+    "confidence": 80.7,
+    "action": "SUBMIT_AS_IS",
+    "disposition": "COMPLY",
+    "needs_gate": false,
+    "score_breakdown": {
+      "keyword_overlap": 0.7143,
+      "exact_phrase_hit": true,
+      "category_boost_applied": true,
+      "shared_keywords": [
+        "authorized",
+        "business",
+        "commission",
+        "commonwealth",
+        "corporation",
+        "identification",
+        "number",
+        "state",
+        "transact",
+        "virginia"
+      ]
+    }
+  }
+]

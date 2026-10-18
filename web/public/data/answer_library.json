@@ -1,0 +1,1043 @@
+{
+  "entries": [
+    {
+      "answer": "Our standard proposal includes the full software suite, professional services for implementation, hardware options where required, a structured end-user training program, and ongoing post-implementation support under a single services agreement. We warrant the complete scope through Go-Live.",
+      "category": "scope",
+      "id": "ANS-001",
+      "keywords": [
+        "software",
+        "implementation",
+        "go-live",
+        "training",
+        "support",
+        "hardware",
+        "suite"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Complete suite scope through Go-Live"
+    },
+    {
+      "answer": "Our proposal pricing is all-inclusive: software licenses, implementation labor, end-user training, travel and incidental costs are itemized in the Cost Proposal. Annual recurring costs are shown separately. No material cost is excluded from the total cost of ownership view.",
+      "category": "scope",
+      "id": "ANS-002",
+      "keywords": [
+        "cost",
+        "pricing",
+        "travel",
+        "incidental",
+        "all-inclusive",
+        "recurring"
+      ],
+      "owner": "Solution Delivery",
+      "title": "All-inclusive proposal pricing"
+    },
+    {
+      "answer": "Our Financial ERP and HCM are built on a single data model and share one identity, one chart of accounts, and one employee record. Deploying both gives a unified solution; a customer deploying only one still gets pre-built, supported integrations to the other.",
+      "category": "scope",
+      "id": "ANS-003",
+      "keywords": [
+        "capital",
+        "erp",
+        "financial",
+        "hcm",
+        "human",
+        "identity",
+        "integrate",
+        "satisfy",
+        "seamlessly",
+        "selected",
+        "single data model",
+        "unified"
+      ],
+      "owner": "Product Team",
+      "title": "ERP/HCM unified platform"
+    },
+    {
+      "answer": "Our integration framework uses REST APIs, secure file-based exchange, and an event bus to connect with existing county systems. We publish a documented interface catalog and will certify integrations to your business systems during implementation.",
+      "category": "scope",
+      "id": "ANS-004",
+      "keywords": [
+        "ancillary",
+        "api",
+        "business",
+        "critical",
+        "demonstrate",
+        "demonstrates",
+        "event bus",
+        "existing",
+        "existing systems",
+        "integrate",
+        "integrates",
+        "integration",
+        "interface"
+      ],
+      "owner": "Integration Team",
+      "title": "Integration with existing county systems"
+    },
+    {
+      "answer": "For ancillary and third-party systems we provide a detailed integration plan per interface: data flows, owners, sync frequency, error handling, and acceptance criteria. Our integration team co-delivers these with the primary vendor until every interface is in production.",
+      "category": "scope",
+      "id": "ANS-005",
+      "keywords": [
+        "ancillary",
+        "third-party",
+        "integration plan",
+        "interface",
+        "co-delivery"
+      ],
+      "owner": "Integration Team",
+      "title": "Ancillary and third-party integration plans"
+    },
+    {
+      "answer": "Every engagement includes professional services labor, software licenses, optional hardware provisioning, a formal training program, implementation management, and integration services. All are named line items in the proposal.",
+      "category": "scope",
+      "id": "ANS-006",
+      "keywords": [
+        "business",
+        "county",
+        "hardware",
+        "implementation",
+        "integration",
+        "meets",
+        "needs",
+        "ongoing",
+        "proposal",
+        "software",
+        "technical labor",
+        "training"
+      ],
+      "owner": "Professional Services",
+      "title": "Included services: labor, software, hardware, training"
+    },
+    {
+      "answer": "Our staffing estimate includes vendor roles and the county roles we need from you, with hours and responsibilities per phase, so your team can plan backfill. We finalize it jointly during project planning.",
+      "category": "scope",
+      "id": "ANS-007",
+      "keywords": [
+        "staffing plan",
+        "county staff",
+        "hours",
+        "roles",
+        "backfill"
+      ],
+      "owner": "Professional Services",
+      "title": "County staff involvement estimate"
+    },
+    {
+      "answer": "Our Financial ERP covers the full procure-to-pay and record-to-report cycle: accounts payable with approval workflows, expense reimbursement, accounts receivable, operating and capital budgeting, capital project accounting, and fixed asset management with depreciation.",
+      "category": "scope",
+      "id": "ANS-008",
+      "keywords": [
+        "accounts payable",
+        "expense",
+        "accounts receivable",
+        "budget",
+        "capital project",
+        "fixed assets",
+        "depreciation"
+      ],
+      "owner": "Product Team",
+      "title": "Financial ERP: AP/AR/budget/assets"
+    },
+    {
+      "answer": "Grants management tracks awards, budgets, drawdowns, and compliance reporting. Financial control includes multi-fund journal entries with approval chains, automated bank reconciliation, cash position dashboards, and investment accounting.",
+      "category": "scope",
+      "id": "ANS-009",
+      "keywords": [
+        "grants",
+        "journal entry",
+        "bank reconciliation",
+        "cash management",
+        "investment"
+      ],
+      "owner": "Product Team",
+      "title": "Financial ERP: grants, journals, cash"
+    },
+    {
+      "answer": "Procurement includes electronic requisitions with budget checking, purchase orders, solicitation and bid management, contract lifecycle management, change orders, and a centralized vendor master with performance history.",
+      "category": "scope",
+      "id": "ANS-010",
+      "keywords": [
+        "requisition",
+        "purchase order",
+        "solicitation",
+        "contract management",
+        "change order",
+        "vendor management"
+      ],
+      "owner": "Product Team",
+      "title": "Financial ERP: procurement suite"
+    },
+    {
+      "answer": "Our HCM covers the full hire-to-retire lifecycle: requisition-based recruiting, digital onboarding, time and attendance, payroll with tax and garnishment handling, benefits administration, and employee records with position control, performance reviews, learning plans, and policy attestations.",
+      "category": "scope",
+      "id": "ANS-011",
+      "keywords": [
+        "recruiting",
+        "onboarding",
+        "time and attendance",
+        "payroll",
+        "benefits",
+        "position control",
+        "performance"
+      ],
+      "owner": "Product Team",
+      "title": "HCM: hire-to-retire suite"
+    },
+    {
+      "answer": "Time and attendance supports web and mobile clocking, schedule management, and leave accruals. Departmental time systems can feed hours through our import service with validation and exception reports before payroll runs.",
+      "category": "scope",
+      "id": "ANS-012",
+      "keywords": [
+        "account",
+        "accurately",
+        "clocking",
+        "data",
+        "departmental systems",
+        "employee",
+        "import",
+        "leave",
+        "time tracking",
+        "track"
+      ],
+      "owner": "Product Team",
+      "title": "Time and attendance with imports"
+    },
+    {
+      "answer": "Employees can view, correct, and resubmit timesheets inside an open pay period. Supervisors approve corrections through the same workflow, and every change is audit-logged with before/after values.",
+      "category": "scope",
+      "id": "ANS-013",
+      "keywords": [
+        "timesheet",
+        "corrections",
+        "open pay period",
+        "audit log",
+        "supervisor approval"
+      ],
+      "owner": "Product Team",
+      "title": "Timesheet corrections in open pay period"
+    },
+    {
+      "answer": "Our Cost Proposal is a standalone document with itemized pricing: licenses, implementation services, hardware, training, and travel through Go-Live, plus recurring annual subscription and support costs. Every line is priced; nothing is bundled opaquely.",
+      "category": "submittal",
+      "id": "ANS-014",
+      "keywords": [
+        "cost proposal",
+        "itemized",
+        "go-live",
+        "annual",
+        "pricing"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Standalone itemized Cost Proposal"
+    },
+    {
+      "answer": "We comply with hard-copy and electronic submittal formats exactly as specified: signed original plus required bound copies of the narrative, and a business-labeled electronic copy in non-editable PDF on flash drive.",
+      "category": "submittal",
+      "id": "ANS-015",
+      "keywords": [
+        "authorized",
+        "bind",
+        "bound copies",
+        "electronic",
+        "flash drive",
+        "official",
+        "original",
+        "pdf",
+        "signed"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Hard-copy and electronic submittal format"
+    },
+    {
+      "answer": "Our proposal package is submitted in a sealed envelope marked exactly as the RFP requires, with legal name, address, and telephone number on the envelope, delivered to the named recipient before the stated deadline.",
+      "category": "submittal",
+      "id": "ANS-016",
+      "keywords": [
+        "sealed envelope",
+        "marking",
+        "deadline",
+        "delivery"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Sealed-envelope submission and deadline"
+    },
+    {
+      "answer": "Our transmittal letter expresses interest, names the persons authorized to represent us in negotiations, names the person legally authorized to sign the contract, and is signed by our authorized representative with email and telephone contact details.",
+      "category": "submittal",
+      "id": "ANS-017",
+      "keywords": [
+        "transmittal letter",
+        "authorized representative",
+        "sign",
+        "negotiations"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Transmittal letter with authorized signatory"
+    },
+    {
+      "answer": "The transmittal letter states explicitly which Enterprise Software Systems we are offering under this RFP, and the Vendor Proposal Identification Schedule is completed to match.",
+      "category": "submittal",
+      "id": "ANS-018",
+      "keywords": [
+        "attachment 3",
+        "identification schedule",
+        "indicate",
+        "offer",
+        "offering",
+        "solutions",
+        "systems offered",
+        "transmittal"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Systems offered identification"
+    },
+    {
+      "answer": "We complete every Requirements Traceability Matrix relevant to our proposed solutions in the original Excel workbooks, following the response guidelines in each spreadsheet, and submit them electronically with our proposal.",
+      "category": "submittal",
+      "id": "ANS-019",
+      "keywords": [
+        "rtm",
+        "requirements traceability",
+        "excel",
+        "workbook"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Completed RTMs in native Excel"
+    },
+    {
+      "answer": "Our proposal addresses every requested section in the RFP's order, using the section numbering from the Proposal Response Guideline, so evaluators can map our response section by section.",
+      "category": "submittal",
+      "id": "ANS-020",
+      "keywords": [
+        "sections",
+        "order",
+        "response guideline",
+        "evaluators"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Proposal organized to RFP order"
+    },
+    {
+      "answer": "We provide five client references with contact names, roles, and phone numbers: public-sector ERP/HCM implementations of comparable size completed in the last five years.",
+      "category": "submittal",
+      "id": "ANS-021",
+      "keywords": [
+        "references",
+        "client",
+        "public sector",
+        "contact"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Five client references"
+    },
+    {
+      "answer": "Our Executive Summary is a concise narrative of the proposed solution, the implementation approach, and the value to the County, written for non-technical evaluators.",
+      "category": "submittal",
+      "id": "ANS-022",
+      "keywords": [
+        "executive summary",
+        "narrative",
+        "solution overview"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Executive Summary narrative"
+    },
+    {
+      "answer": "We include sample contract documents with our proposal: software license terms, SaaS subscription and fee schedule, third-party agreements, maintenance terms, professional services terms, our standard SLA, and remote-access provisions.",
+      "category": "submittal",
+      "id": "ANS-023",
+      "keywords": [
+        "sample contract",
+        "license",
+        "saas fees",
+        "sla",
+        "remote access"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Sample contract documents"
+    },
+    {
+      "answer": "We welcome the production demonstration. Our demo uses a live production tenant (not slides), walks your scripted scenarios, and leaves time for the Selection Committee's implementation and support questions with our delivery leads present.",
+      "category": "submittal",
+      "id": "ANS-024",
+      "keywords": [
+        "demonstration",
+        "production",
+        "selection committee",
+        "scripted scenarios"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Production system demonstration"
+    },
+    {
+      "answer": "All RFP-related communications from our team go in writing via email to the RFP Coordinator. We do not contact other County staff about the solicitation during the blackout period.",
+      "category": "submittal",
+      "id": "ANS-025",
+      "keywords": [
+        "communications",
+        "rfp coordinator",
+        "writing",
+        "email",
+        "blackout"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Written communications via RFP Coordinator"
+    },
+    {
+      "answer": "We have delivered 40+ public-sector ERP/HCM implementations in the last decade. Our proposal documents project references, staff resumes, and delivery methodology evidence demonstrating full-spectrum capability for this scope.",
+      "category": "qualifications",
+      "id": "ANS-026",
+      "keywords": [
+        "experience",
+        "capabilities",
+        "public sector",
+        "staff",
+        "expertise"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Vendor capability and experience"
+    },
+    {
+      "answer": "For this bid we are the primary vendor and will manage the contract end to end. Any subcontractors are named in our proposal with their roles, and we hold sole accountability to the County.",
+      "category": "qualifications",
+      "id": "ANS-027",
+      "keywords": [
+        "primary vendor",
+        "joint proposal",
+        "subcontractors",
+        "accountability"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Primary vendor designation"
+    },
+    {
+      "answer": "Our proposed Principal/Project Manager has led six county ERP implementations and carries direct, continued responsibility for schedule, budget, and quality from kickoff through stabilization.",
+      "category": "staffing",
+      "id": "ANS-028",
+      "keywords": [
+        "project manager",
+        "principal",
+        "responsibility",
+        "schedule",
+        "budget"
+      ],
+      "owner": "Professional Services",
+      "title": "Named Project Manager"
+    },
+    {
+      "answer": "Our implementation team roster lists every assigned consultant, their role, their responsibilities on this project, their relevant experience, and their time allocation by phase.",
+      "category": "staffing",
+      "id": "ANS-029",
+      "keywords": [
+        "team",
+        "personnel",
+        "responsibilities",
+        "roles",
+        "allocation"
+      ],
+      "owner": "Professional Services",
+      "title": "Implementation team roster"
+    },
+    {
+      "answer": "Our project management approach uses a joint governance structure: a steering committee, weekly status cadence, a shared RAID log, and a staffing plan that names the County roles and hours needed per phase.",
+      "category": "staffing",
+      "id": "ANS-030",
+      "keywords": [
+        "project management",
+        "governance",
+        "organizational structure",
+        "county staff",
+        "raid"
+      ],
+      "owner": "Professional Services",
+      "title": "Project management approach and org structure"
+    },
+    {
+      "answer": "Our implementation plan is a narrative with an activity-level project plan: phases, milestones, dependencies, resource assignments, and acceptance criteria, maintained in a shared schedule throughout the project.",
+      "category": "implementation",
+      "id": "ANS-031",
+      "keywords": [
+        "implementation plan",
+        "narrative",
+        "project plan",
+        "milestones",
+        "schedule"
+      ],
+      "owner": "Professional Services",
+      "title": "Narrative implementation plan with schedule"
+    },
+    {
+      "answer": "We use a phased public-sector methodology: discovery, design, build, test, train, deploy, stabilize. Each phase has entry/exit gates, and the plan is baselined so on-time, on-budget delivery is measured against commitments, not estimates.",
+      "category": "implementation",
+      "id": "ANS-032",
+      "keywords": [
+        "methodology",
+        "phases",
+        "gates",
+        "on time",
+        "on budget",
+        "public sector"
+      ],
+      "owner": "Professional Services",
+      "title": "Public-sector delivery methodology"
+    },
+    {
+      "answer": "Our Data Conversion Plan covers extraction from legacy and manual sources, cleansing and mapping rules, trial conversions with reconciliation reports, and a final cutover conversion with rollback criteria.",
+      "category": "implementation",
+      "id": "ANS-033",
+      "keywords": [
+        "data conversion",
+        "legacy",
+        "cleansing",
+        "mapping",
+        "cutover",
+        "reconciliation"
+      ],
+      "owner": "Professional Services",
+      "title": "Data Conversion Plan"
+    },
+    {
+      "answer": "We deliver standard operational and financial reports out of the box and build County-specific reports during implementation. Report development is scoped in the plan with a named reporting lead and a prioritized backlog.",
+      "category": "implementation",
+      "id": "ANS-034",
+      "keywords": [
+        "reports",
+        "report development",
+        "standard reports",
+        "custom reports"
+      ],
+      "owner": "Professional Services",
+      "title": "Report development approach"
+    },
+    {
+      "answer": "Our Integration and Interfaces plan documents every interface: source and target systems, data direction, frequency, transport, transformation rules, error handling, and test cases, signed off before build begins.",
+      "category": "implementation",
+      "id": "ANS-035",
+      "keywords": [
+        "integration",
+        "interfaces",
+        "data flows",
+        "error handling",
+        "test cases"
+      ],
+      "owner": "Integration Team",
+      "title": "Integration and Interfaces plan"
+    },
+    {
+      "answer": "Our testing approach covers unit, system integration, and user acceptance testing with County staff. Test scripts are traced to requirements, defects are tracked to closure, and UAT sign-off gates Go-Live.",
+      "category": "implementation",
+      "id": "ANS-036",
+      "keywords": [
+        "testing",
+        "unit",
+        "integration",
+        "user acceptance",
+        "uat",
+        "defects"
+      ],
+      "owner": "Professional Services",
+      "title": "Testing approach with UAT gate"
+    },
+    {
+      "answer": "We train by role: end-user workflow training, train-the-trainer for power users, and administrator training. Training is scheduled around County operations and measured by readiness assessments before Go-Live.",
+      "category": "implementation",
+      "id": "ANS-037",
+      "keywords": [
+        "administrators",
+        "core",
+        "end users",
+        "functionality",
+        "programs",
+        "readiness",
+        "train-the-trainer",
+        "training",
+        "understand",
+        "workflows"
+      ],
+      "owner": "Professional Services",
+      "title": "Role-based training program"
+    },
+    {
+      "answer": "Our training proposal states the nature, level, and amount of training per audience with general timeframes, plus refresher and new-hire training options after Go-Live.",
+      "category": "implementation",
+      "id": "ANS-038",
+      "keywords": [
+        "training",
+        "nature",
+        "level",
+        "amount",
+        "timeframes",
+        "refresher"
+      ],
+      "owner": "Professional Services",
+      "title": "Training scope and timeframes"
+    },
+    {
+      "answer": "We provide searchable user manuals and in-application online help at Go-Live, updated with each release, and available to all County users as part of ongoing operational support.",
+      "category": "implementation",
+      "id": "ANS-039",
+      "keywords": [
+        "manuals",
+        "online help",
+        "documentation",
+        "release"
+      ],
+      "owner": "Professional Services",
+      "title": "User manuals and online help"
+    },
+    {
+      "answer": "Our proposal maps our response to every Attachment 1 system requirement, requirement by requirement, so the County can verify coverage of its business needs.",
+      "category": "implementation",
+      "id": "ANS-040",
+      "keywords": [
+        "attachment 1",
+        "system requirements",
+        "coverage",
+        "traceability"
+      ],
+      "owner": "Solution Delivery",
+      "title": "Attachment 1 requirements coverage"
+    },
+    {
+      "answer": "Post-implementation support includes a named support team, defined service tiers, response and resolution targets in our SLA, a customer portal for case management, and scheduled health checks in the first year.",
+      "category": "support",
+      "id": "ANS-041",
+      "keywords": [
+        "post-implementation",
+        "support",
+        "sla",
+        "service tiers",
+        "portal"
+      ],
+      "owner": "Support Operations",
+      "title": "Post-implementation support terms"
+    },
+    {
+      "answer": "Our maintenance and support agreement covers software updates, regulatory updates, help-desk support during County business hours, and defined escalation paths after Go-Live.",
+      "category": "support",
+      "id": "ANS-042",
+      "keywords": [
+        "maintenance",
+        "updates",
+        "help desk",
+        "escalation",
+        "go-live"
+      ],
+      "owner": "Support Operations",
+      "title": "Ongoing maintenance and support"
+    },
+    {
+      "answer": "We operate a documented information security program aligned with NIST 800-53 controls, covering access management, encryption, logging, vulnerability management, and incident response, maintained for the life of the contract.",
+      "category": "security",
+      "id": "ANS-043",
+      "keywords": [
+        "access",
+        "applicable",
+        "best",
+        "commonwealth",
+        "comply",
+        "controls",
+        "encryption",
+        "federal",
+        "information security",
+        "laws",
+        "logging",
+        "nist",
+        "practices"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Information security program"
+    },
+    {
+      "answer": "Our security program includes the minimum required controls across identity, network, application, and data layers, reviewed annually and updated for new threats and legal requirements.",
+      "category": "security",
+      "id": "ANS-044",
+      "keywords": [
+        "security controls",
+        "minimum",
+        "identity",
+        "network",
+        "application",
+        "data"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Minimum security controls maintained"
+    },
+    {
+      "answer": "An independent qualified firm performs penetration testing of our platform annually. We share the executive summary with customers, including findings, risk ratings, and our remediation status for each item.",
+      "category": "security",
+      "id": "ANS-045",
+      "keywords": [
+        "annual",
+        "annually",
+        "evidence",
+        "exercise",
+        "external",
+        "findings",
+        "firm",
+        "penetration testing",
+        "qualified",
+        "remediation"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Annual external penetration testing"
+    },
+    {
+      "answer": "Our platform is PCI DSS compliant for payment card processing, validated annually. We provide our Attestation of Compliance to customers each year.",
+      "category": "security",
+      "id": "ANS-046",
+      "keywords": [
+        "pci dss",
+        "payment card",
+        "attestation",
+        "compliant"
+      ],
+      "owner": "InfoSec Office",
+      "title": "PCI DSS compliance and attestation"
+    },
+    {
+      "answer": "Our platform is HIPAA compliant for protected health information, with administrative, physical, and technical safeguards. We provide our compliance attestation annually and will execute a Business Associate Agreement.",
+      "category": "security",
+      "id": "ANS-047",
+      "keywords": [
+        "hipaa",
+        "phi",
+        "protected health",
+        "attestation",
+        "baa"
+      ],
+      "owner": "InfoSec Office",
+      "title": "HIPAA compliance and attestation"
+    },
+    {
+      "answer": "We protect Federal Taxpayer Information per IRS Publication 1075: role-based access, comprehensive audit logging, encrypted storage and transmission, background-checked personnel, and physical security controls at our facilities.",
+      "category": "security",
+      "id": "ANS-048",
+      "keywords": [
+        "irs 1075",
+        "federal taxpayer information",
+        "access control",
+        "audit logging",
+        "physical security"
+      ],
+      "owner": "InfoSec Office",
+      "title": "IRS Publication 1075 compliance"
+    },
+    {
+      "answer": "Our incident response plan activates immediately on a suspected breach: containment, forensic analysis, customer notification per legal timelines, and a post-incident report with corrective actions. We practice it with tabletop exercises annually.",
+      "category": "security",
+      "id": "ANS-049",
+      "keywords": [
+        "containment",
+        "data breach",
+        "event",
+        "forensics",
+        "immediate",
+        "incident response",
+        "legal",
+        "mitigate",
+        "notification",
+        "regulatory",
+        "transparency"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Data breach response plan"
+    },
+    {
+      "answer": "We carry cyber liability and technology errors-and-omissions insurance at the limits specified, name the County as additional insured, and provide proof of coverage on request and at each renewal.",
+      "category": "security",
+      "id": "ANS-050",
+      "keywords": [
+        "cyber liability",
+        "insurance",
+        "additional insured",
+        "proof of coverage",
+        "errors and omissions"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Cyber liability insurance with County as additional insured"
+    },
+    {
+      "answer": "Our proposal includes our security controls documentation, disaster recovery plan summary, and data retention policy for the County's review.",
+      "category": "security",
+      "id": "ANS-051",
+      "keywords": [
+        "security documentation",
+        "disaster recovery plan",
+        "retention policy",
+        "proposal"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Security, DR, and retention documentation"
+    },
+    {
+      "answer": "Our platform is built for continuous threat adaptation: we monitor the threat landscape, patch on a defined cadence, and will comply with new locality security requirements issued during the contract term.",
+      "category": "security",
+      "id": "ANS-052",
+      "keywords": [
+        "threats",
+        "adapt",
+        "patch",
+        "new requirements",
+        "evolving"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Continuous threat adaptation"
+    },
+    {
+      "answer": "Our Disaster Recovery and Business Continuity Program defines RTO/RPO targets, failover procedures, and communication plans. We test the DR plan annually and share the test summary with customers.",
+      "category": "dr",
+      "id": "ANS-053",
+      "keywords": [
+        "disaster recovery",
+        "business continuity",
+        "rto",
+        "rpo",
+        "failover",
+        "test"
+      ],
+      "owner": "InfoSec Office",
+      "title": "DR and Business Continuity Program"
+    },
+    {
+      "answer": "Customer data is replicated to geographically separated facilities more than 100 miles from the primary site, with both off-site and cloud-based backup copies retained per our backup policy.",
+      "category": "dr",
+      "id": "ANS-054",
+      "keywords": [
+        "backup",
+        "redundant",
+        "off-site",
+        "cloud",
+        "100 miles",
+        "geographic"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Geographically separated redundant backups"
+    },
+    {
+      "answer": "Our data retention and destruction practices comply with the Virginia Public Records Act: retention schedules by record type, secure destruction methods, and certificates of destruction on request.",
+      "category": "retention",
+      "id": "ANS-055",
+      "keywords": [
+        "virginia public records act",
+        "retention",
+        "destruction",
+        "vpra"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "VPRA-compliant retention and destruction"
+    },
+    {
+      "answer": "County administrators can export their data in standard formats at any time and request deletion with written verification that the data has been destroyed across primary and backup systems.",
+      "category": "retention",
+      "id": "ANS-056",
+      "keywords": [
+        "export",
+        "deletion",
+        "retrieve",
+        "verify",
+        "data"
+      ],
+      "owner": "Product Team",
+      "title": "Data export and verified deletion"
+    },
+    {
+      "answer": "We publish monthly uptime reports and maintain a real-time service status dashboard showing system availability, incident history, and scheduled maintenance.",
+      "category": "availability",
+      "id": "ANS-057",
+      "keywords": [
+        "uptime",
+        "reports",
+        "monthly",
+        "status dashboard",
+        "availability"
+      ],
+      "owner": "Support Operations",
+      "title": "Monthly uptime reports and status dashboard"
+    },
+    {
+      "answer": "Our maintenance notice policy: five business days' notice for low-impact changes, ten business days for moderate-impact changes, and thirty days plus direct coordination for high-impact changes.",
+      "category": "availability",
+      "id": "ANS-058",
+      "keywords": [
+        "maintenance",
+        "notice",
+        "five days",
+        "ten days",
+        "thirty days",
+        "low-impact",
+        "high-impact"
+      ],
+      "owner": "Support Operations",
+      "title": "Tiered maintenance notice windows"
+    },
+    {
+      "answer": "We hold quarterly service check-in meetings to review performance, open issues, upcoming maintenance, and enhancement requests, with additional meetings scheduled around incidents or major releases.",
+      "category": "availability",
+      "id": "ANS-059",
+      "keywords": [
+        "check-in",
+        "quarterly",
+        "service review",
+        "performance",
+        "issues"
+      ],
+      "owner": "Support Operations",
+      "title": "Quarterly service check-ins"
+    },
+    {
+      "answer": "After each check-in we deliver a summary report with key takeaways, action items with owners and due dates, and agreed resolutions, tracked to closure in our case system.",
+      "category": "availability",
+      "id": "ANS-060",
+      "keywords": [
+        "summary report",
+        "action items",
+        "takeaways",
+        "resolutions"
+      ],
+      "owner": "Support Operations",
+      "title": "Check-in summary reports"
+    },
+    {
+      "answer": "We participate in an annual service review covering service effectiveness, contract adherence, SLA performance, and strategic alignment, with a written scorecard and improvement plan.",
+      "category": "availability",
+      "id": "ANS-061",
+      "keywords": [
+        "annual review",
+        "service review",
+        "scorecard",
+        "improvement plan",
+        "contract"
+      ],
+      "owner": "Support Operations",
+      "title": "Annual service review"
+    },
+    {
+      "answer": "We provide annual evidence of security control adherence: penetration test summaries, third-party audit reports, and compliance attestations, delivered to the County's security contact.",
+      "category": "availability",
+      "id": "ANS-062",
+      "keywords": [
+        "security evidence",
+        "penetration test",
+        "audit reports",
+        "compliance",
+        "annual"
+      ],
+      "owner": "InfoSec Office",
+      "title": "Annual security control evidence"
+    },
+    {
+      "answer": "We carry public liability insurance at the required limits, deliver Certificates of Insurance from A-rated carriers, and our policies require 30 days' written notice to the County before cancellation.",
+      "category": "contract",
+      "id": "ANS-063",
+      "keywords": [
+        "public liability",
+        "insurance",
+        "certificates",
+        "cancellation",
+        "30 days"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Public liability insurance and certificates"
+    },
+    {
+      "answer": "Our tax position: we are responsible for all state, local, and federal taxes arising from the contract. The County is held harmless, and no tax is added on top of the contract price.",
+      "category": "contract",
+      "id": "ANS-064",
+      "keywords": [
+        "taxes",
+        "obligation",
+        "held harmless",
+        "contract price"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Tax obligation and hold-harmless"
+    },
+    {
+      "answer": "We indemnify and hold harmless the County, its employees, and agents against liability, claims, damages, and costs arising from our performance, as set out in our proposed contract terms.",
+      "category": "contract",
+      "id": "ANS-065",
+      "keywords": [
+        "indemnify",
+        "hold harmless",
+        "liability",
+        "claims",
+        "damages"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Indemnification of the County"
+    },
+    {
+      "answer": "We invoice per completed deliverable or service period with full itemization. Standard payment terms are net 45 days from receipt of a proper invoice, matching the County's terms.",
+      "category": "contract",
+      "id": "ANS-066",
+      "keywords": [
+        "invoice",
+        "itemized",
+        "payment",
+        "45 days",
+        "net 45"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Itemized invoicing, net-45 payment"
+    },
+    {
+      "answer": "We acknowledge every addendum in our proposal by number and date, confirming we have received and incorporated all County-issued addenda.",
+      "category": "contract",
+      "id": "ANS-067",
+      "keywords": [
+        "addendum",
+        "acknowledge",
+        "received",
+        "incorporated"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Addendum acknowledgment"
+    },
+    {
+      "answer": "We are authorized to transact business in the Commonwealth of Virginia and include our Virginia State Corporation Commission identification number in our proposal.",
+      "category": "contract",
+      "id": "ANS-068",
+      "keywords": [
+        "virginia",
+        "scc",
+        "authorized",
+        "identification number",
+        "commonwealth"
+      ],
+      "owner": "Contracts & Compliance",
+      "title": "Virginia SCC authorization"
+    },
+    {
+      "answer": "Our project demonstrates the bid: five-day notice for low-impact maintenance, ten for moderate, thirty with coordination for high-impact. We publish the calendar and never surprise the customer.",
+      "category": "availability",
+      "id": "ANS-069",
+      "keywords": [
+        "maintenance",
+        "notice",
+        "calendar",
+        "low-impact",
+        "moderate",
+        "high-impact"
+      ],
+      "owner": "Support Operations",
+      "title": "Maintenance notice calendar (alt)"
+    },
+    {
+      "answer": "Our grants module tracks the full grant lifecycle: application, award, budget setup, encumbrance, drawdown, and funder reporting, with indirect cost allocation.",
+      "category": "scope",
+      "id": "ANS-070",
+      "keywords": [
+        "grants",
+        "award",
+        "drawdown",
+        "reporting",
+        "lifecycle"
+      ],
+      "owner": "Product Team",
+      "title": "Grants lifecycle tracking (alt)"
+    }
+  ],
+  "note": "Seeded vendor answer library: the vendor's own approved answers, written as standing content a solutions team would reuse across bids. This is the product's input data (like a vendor playbook), disclosed as seeded. The RFP requirements above are extracted from a real public RFP."
+}

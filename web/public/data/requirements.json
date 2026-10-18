@@ -1,0 +1,558 @@
+{
+  "requirements": [
+    {
+      "category": "scope",
+      "id": "REQ-001",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "The suite must include all necessary software, training, hardware (if required), and ongoing support services to achieve successful implementation and Go-Live."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-002",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "The proposal must include software, technical labor, training, hardware (as needed), and ongoing support and maintenance that meet the County's business needs."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-003",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "The selected Financial ERP System must integrate seamlessly with the Human Capital Management (HCM) system or satisfy both primary systems within a unified solution."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-004",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "Vendors must demonstrate how their solution will integrate with the County's existing critical business systems and any selected ancillary systems (Taxation, Utility Billing, Enterprise Land Management, Budgeting, Time and Attendance)."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-005",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "Vendors proposing ancillary or third-party solutions must provide detailed integration plans showing how their systems work with the selected primary system(s) as a fully integrated enterprise suite."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-006",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "All proposals must include technical labor, software, hardware (if applicable), training, implementation, and integration services."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-007",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "All proposals must include a detailed staffing plan and an estimate of required County staff involvement, including hours and roles for implementation and ongoing support."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-008",
+      "priority": "Desired",
+      "section": "Scope of Work",
+      "text": "The Financial ERP solution should include accounts payable, expense reimbursement, accounts receivable, budget creation and adjustments, capital project management, and fixed asset management."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-009",
+      "priority": "Desired",
+      "section": "Scope of Work",
+      "text": "The Financial ERP solution should include grants management, financial control with journal entry processing, bank reconciliation, cash management, and investment management."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-010",
+      "priority": "Desired",
+      "section": "Scope of Work",
+      "text": "The Financial ERP solution should include purchase requisition and purchase order management, and procurement including solicitation, contract, change order, and vendor management."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-011",
+      "priority": "Desired",
+      "section": "Scope of Work",
+      "text": "The HCM solution should include recruitment and onboarding, time and attendance tracking, payroll and benefits administration, and employee management with position control, performance management, professional development, risk management, and policy compliance."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-012",
+      "priority": "Desired",
+      "section": "Scope of Work",
+      "text": "The HCM solution should accurately track and account for all employee time and attendance data, including the ability to import time and attendance data from departmental systems."
+    },
+    {
+      "category": "scope",
+      "id": "REQ-013",
+      "priority": "Mandatory",
+      "section": "Scope of Work",
+      "text": "Employees must have the ability to submit corrections to their timesheets within an open pay period."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-014",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Each proposal must include all costs, incidental or otherwise, including estimated travel costs, for software, hardware, end-user training, and technical labor."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-015",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must provide one bound, signed ORIGINAL copy and six bound copies of the narrative proposal."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-016",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must provide a flash drive with an electronic version of the complete proposal in non-editable Adobe PDF format, labeled with the business name."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-017",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "All hard-copy proposals must be submitted in a sealed envelope marked 'Sealed Proposals of (entity) - Implementation Services for Integrated Enterprise Software Systems', with legal name, address, and telephone number on the envelope."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-018",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Proposals must be received by the Deputy County Administrator no later than May 9, 2025, at 2:00 PM EST."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-019",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "An official authorized to bind the vendor must sign the original proposal copy."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-020",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "All communications (questions, concerns, protests) concerning the RFP must be submitted in writing via email to the RFP Coordinator."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-021",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must complete the Vendor Proposal Identification Schedule identifying which Enterprise Software Systems they are offering."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-022",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "The vendor must include a Transmittal Letter with an expression of interest, naming the person(s) authorized to represent the vendor in negotiations and legally authorized to sign the contract."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-023",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "The Transmittal Letter must be signed by the vendor's authorized representative and include the email address and telephone number."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-024",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "The Transmittal Letter must indicate the system solution(s) the vendor would like to offer within the RFP."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-025",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must complete and submit the Requirements Traceability Matrices (RTMs) relevant to their proposed solutions in the original Excel format."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-026",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Proposals must address all requested sections and be presented in the same order as the RFP."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-027",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must provide details of five client references."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-028",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must include an Executive Summary as a brief narrative describing the proposed solution(s) being offered."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-029",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must provide sample contract documents including Software License, SaaS fees, third-party agreements, maintenance, services, SLAs, and remote access terms."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-030",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must prepare a separate, stand-alone Cost Proposal with itemized pricing through Go-Live plus recurring annual costs."
+    },
+    {
+      "category": "submittal",
+      "id": "REQ-031",
+      "priority": "Mandatory",
+      "section": "Proposal Submittal",
+      "text": "Vendors must be prepared to demonstrate the proposed solution in production to the County's Selection Committee and answer implementation and support questions."
+    },
+    {
+      "category": "qualifications",
+      "id": "REQ-032",
+      "priority": "Mandatory",
+      "section": "Vendor Qualifications",
+      "text": "The vendor must demonstrate and provide evidence of the full spectrum of capabilities, experience, professional staff, and expertise to deliver the products and professional services described."
+    },
+    {
+      "category": "qualifications",
+      "id": "REQ-033",
+      "priority": "Mandatory",
+      "section": "Vendor Qualifications",
+      "text": "If multiple firms partner on a joint proposal, the proposal must clearly identify one firm as the primary vendor who will manage the contract."
+    },
+    {
+      "category": "qualifications",
+      "id": "REQ-034",
+      "priority": "Mandatory",
+      "section": "Vendor Qualifications",
+      "text": "A primary vendor must be identified for the implementation process."
+    },
+    {
+      "category": "staffing",
+      "id": "REQ-035",
+      "priority": "Mandatory",
+      "section": "Staffing Plan",
+      "text": "The Staffing Plan must designate the Principal or Project Manager with direct and continued responsibility for the project."
+    },
+    {
+      "category": "staffing",
+      "id": "REQ-036",
+      "priority": "Mandatory",
+      "section": "Staffing Plan",
+      "text": "The vendor must detail all personnel assigned to the implementation team, including each individual's job responsibilities for this project."
+    },
+    {
+      "category": "staffing",
+      "id": "REQ-037",
+      "priority": "Mandatory",
+      "section": "Staffing Plan",
+      "text": "The Staffing Plan must include an overall project management approach and project organizational structure identifying anticipated County staff involvement."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-038",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide an implementation plan in narrative format detailing how the proposed solution is to be implemented, supported by an activity-level project plan."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-039",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The general implementation approach must describe the project methodology for delivering on time, within the proposed budget, and meeting the unique needs of a public-sector client."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-040",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide a Data Conversion Plan for converting both electronic and manual data sources."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-041",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide an approach to Report Development for the proposed solution(s)."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-042",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide a plan for Integration and Interfaces."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-043",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must describe the recommended approach to testing (unit, integration, system, user acceptance) and the level of County staff engagement in each."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-044",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide training programs so all end-users understand the core functionality of the solution(s) and can execute the associated workflows."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-045",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must list the nature, level, and amount of training provided, with general timeframes for each training type."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-046",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must provide user manuals and online help as part of initial training and ongoing operational support."
+    },
+    {
+      "category": "implementation",
+      "id": "REQ-047",
+      "priority": "Mandatory",
+      "section": "Implementation Plan",
+      "text": "The vendor must comply with Attachment 1 (System Requirements) to meet the County's business needs."
+    },
+    {
+      "category": "support",
+      "id": "REQ-048",
+      "priority": "Mandatory",
+      "section": "Ongoing Support Services",
+      "text": "The vendor must specify the nature and conditions of all post-implementation support options."
+    },
+    {
+      "category": "support",
+      "id": "REQ-049",
+      "priority": "Mandatory",
+      "section": "Ongoing Support Services",
+      "text": "The solution must provide ongoing support and maintenance that meets the County's business needs after Go-Live."
+    },
+    {
+      "id": "REQ-050",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor must comply with all applicable federal, Commonwealth of Virginia, and local laws, as well as industry best practices, to ensure the security of all county data."
+    },
+    {
+      "id": "REQ-051",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor must maintain an information security program with the minimum required controls for the duration of the contract or as required by law."
+    },
+    {
+      "id": "REQ-052",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor must provide evidence, no less than annually, of penetration testing performed by an external qualified information security firm, including results, risks identified, and remediation activities."
+    },
+    {
+      "id": "REQ-053",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The solution must be Payment Card Industry Data Security Standard (PCI DSS) compliant to protect payment card transactions, with an attestation of compliance provided annually."
+    },
+    {
+      "id": "REQ-054",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The solution must be HIPAA compliant to ensure the security and privacy of Protected Health Information (PHI), with an attestation of compliance provided annually."
+    },
+    {
+      "id": "REQ-055",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The solution must comply with IRS Publication 1075 for the security of Federal Taxpayer Information (FTI), including access control, audit logging, and physical security measures."
+    },
+    {
+      "id": "REQ-056",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "In the event of a data breach, the vendor must take immediate and decisive action to mitigate risks, ensure transparency, and comply with all applicable legal and regulatory requirements."
+    },
+    {
+      "id": "REQ-057",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor must maintain adequate cyber liability insurance coverage for the duration of the contract, with the County named as an additional insured and proof of coverage provided upon request and annually."
+    },
+    {
+      "id": "REQ-058",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor must submit documentation detailing their security controls, disaster recovery plan, and data retention policies as part of their proposal."
+    },
+    {
+      "id": "REQ-059",
+      "category": "security",
+      "section": "Information Security",
+      "priority": "Mandatory",
+      "text": "The vendor's solution must adapt to evolving cybersecurity threats and comply with any new security requirements established by the locality over the course of the contract."
+    },
+    {
+      "id": "REQ-060",
+      "category": "dr",
+      "section": "Disaster Recovery",
+      "priority": "Mandatory",
+      "text": "The vendor must have an established Disaster Recovery (DR) and Business Continuity (BC) Program with supporting plans to ensure minimal disruption of services in the event of system failures, cyberattacks, or natural disasters."
+    },
+    {
+      "id": "REQ-061",
+      "category": "dr",
+      "section": "Disaster Recovery",
+      "priority": "Mandatory",
+      "text": "The solution must have redundant backup solutions, including off-site and cloud-based backups separated geographically from any primary solutions by at least 100 miles."
+    },
+    {
+      "id": "REQ-062",
+      "category": "retention",
+      "section": "Data Retention",
+      "priority": "Mandatory",
+      "text": "The vendor must comply with the Virginia Public Records Act (VPRA) for data retention and destruction."
+    },
+    {
+      "id": "REQ-063",
+      "category": "retention",
+      "section": "Data Retention",
+      "priority": "Mandatory",
+      "text": "The vendor must provide the locality with the ability to retrieve, export, and verify the deletion of data upon request."
+    },
+    {
+      "id": "REQ-064",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must provide monthly uptime reports and real-time service status dashboards for the solution."
+    },
+    {
+      "id": "REQ-065",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must provide at least five (5) business days' advance notice for low-impact planned maintenance activities."
+    },
+    {
+      "id": "REQ-066",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must provide at least ten (10) business days' advance notice for moderate-impact planned maintenance activities."
+    },
+    {
+      "id": "REQ-067",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "For high-impact changes, the vendor must provide at least thirty (30) days' advance notice and coordinate closely with the County."
+    },
+    {
+      "id": "REQ-068",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must perform periodic service check-in meetings to review system performance, outstanding issues, scheduled downtime, and future enhancements, at a minimum on a quarterly basis."
+    },
+    {
+      "id": "REQ-069",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must provide a summary report of each check-in meeting, including key takeaways, action items, and agreed-upon resolutions."
+    },
+    {
+      "id": "REQ-070",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must participate in an annual service review to assess overall service effectiveness, contract adherence, and strategic alignment."
+    },
+    {
+      "id": "REQ-071",
+      "category": "availability",
+      "section": "Availability & Service Mgmt",
+      "priority": "Mandatory",
+      "text": "The vendor must provide evidence of adherence to required security controls, including annual penetration testing results, audit reports, and compliance documentation."
+    },
+    {
+      "id": "REQ-072",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "The successful offeror must carry public liability insurance at least in the amounts specified, deliver Certificates of Insurance from acceptable carriers, and give the County 30 days' notice of cancellation of coverage."
+    },
+    {
+      "id": "REQ-073",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "The vendor must maintain cyber liability and technology errors and omissions insurance in at least the specified amounts for the duration of the contract."
+    },
+    {
+      "id": "REQ-074",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "The successful offeror must indemnify and hold the County and its employees and agents harmless against all liability, claims, damages, and costs attributable to the contractor's work."
+    },
+    {
+      "id": "REQ-075",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "The successful offeror must pay all state, local, and federal taxes; taxes are an obligation of the offeror and not of the County."
+    },
+    {
+      "id": "REQ-076",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "Payment will be rendered to the successful offeror within forty-five (45) days after receipt of a proper itemized invoice."
+    },
+    {
+      "id": "REQ-077",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "Each offeror must acknowledge receipt of every addendum issued by the County in its proposal."
+    },
+    {
+      "id": "REQ-078",
+      "category": "contract",
+      "section": "General Terms",
+      "priority": "Mandatory",
+      "text": "An offeror organized as a corporation, LLC, or partnership must be authorized to transact business in the Commonwealth and include its Virginia State Corporation Commission identification number."
+    }
+  ],
+  "source": {
+    "agency": "Shenandoah County, Virginia",
+    "issued": "2025-03-31",
+    "note": "Requirements below are condensed from the RFP body (scope, submittal, staffing, implementation, support, security, disaster recovery, retention, availability, and general terms). The RFP's detailed system RTMs (Attachment 1) were distributed as vendor-only Dropbox workbooks and could not be fetched; those per-module functional matrices are out of scope for this slice.",
+    "rfp_number": "RFP 2025-002",
+    "title": "Request for Proposals: Integrated Enterprise Software Systems and Implementation Services",
+    "url": "https://www.shenandoahcountyva.gov/DocumentCenter/View/3178/RFP-2025-002---Integrated-Enterprise-Software-Systems-and-Implementation-Services-PDF?bidId="
+  }
+}

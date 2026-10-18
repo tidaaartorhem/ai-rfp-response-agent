@@ -1,0 +1,9 @@
+{
+  "total_requirements": 78,
+  "answered": 74,
+  "coverage_pct": 94.9,
+  "deviate_needs_gate": 23,
+  "unaddressed": 4,
+  "avg_confidence_answered": 66.6,
+  "sections": 11
+}

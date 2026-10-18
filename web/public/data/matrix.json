@@ -1,0 +1,160 @@
+{
+  "Scope of Work": {
+    "total": 13,
+    "answered": 12,
+    "comply": 4,
+    "partially_comply": 6,
+    "deviate": 2,
+    "unaddressed": 1,
+    "gaps": [
+      "REQ-001",
+      "REQ-003",
+      "REQ-004"
+    ],
+    "coverage_pct": 92.3,
+    "avg_confidence": 75.2
+  },
+  "Proposal Submittal": {
+    "total": 18,
+    "answered": 17,
+    "comply": 4,
+    "partially_comply": 7,
+    "deviate": 6,
+    "unaddressed": 1,
+    "gaps": [
+      "REQ-014",
+      "REQ-016",
+      "REQ-018",
+      "REQ-019",
+      "REQ-024",
+      "REQ-026",
+      "REQ-028"
+    ],
+    "coverage_pct": 94.4,
+    "avg_confidence": 66.0
+  },
+  "Vendor Qualifications": {
+    "total": 3,
+    "answered": 2,
+    "comply": 0,
+    "partially_comply": 1,
+    "deviate": 1,
+    "unaddressed": 1,
+    "gaps": [
+      "REQ-032",
+      "REQ-034"
+    ],
+    "coverage_pct": 66.7,
+    "avg_confidence": 55.8
+  },
+  "Staffing Plan": {
+    "total": 3,
+    "answered": 3,
+    "comply": 0,
+    "partially_comply": 2,
+    "deviate": 1,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-036"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 67.7
+  },
+  "Implementation Plan": {
+    "total": 10,
+    "answered": 9,
+    "comply": 1,
+    "partially_comply": 6,
+    "deviate": 2,
+    "unaddressed": 1,
+    "gaps": [
+      "REQ-039",
+      "REQ-041",
+      "REQ-044"
+    ],
+    "coverage_pct": 90.0,
+    "avg_confidence": 66.2
+  },
+  "Ongoing Support Services": {
+    "total": 2,
+    "answered": 2,
+    "comply": 0,
+    "partially_comply": 0,
+    "deviate": 2,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-048",
+      "REQ-049"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 54.4
+  },
+  "Information Security": {
+    "total": 10,
+    "answered": 10,
+    "comply": 1,
+    "partially_comply": 5,
+    "deviate": 4,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-050",
+      "REQ-052",
+      "REQ-056",
+      "REQ-059"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 59.8
+  },
+  "Disaster Recovery": {
+    "total": 2,
+    "answered": 2,
+    "comply": 0,
+    "partially_comply": 0,
+    "deviate": 2,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-060",
+      "REQ-061"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 56.7
+  },
+  "Data Retention": {
+    "total": 2,
+    "answered": 2,
+    "comply": 1,
+    "partially_comply": 0,
+    "deviate": 1,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-063"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 68.7
+  },
+  "Availability & Service Mgmt": {
+    "total": 8,
+    "answered": 8,
+    "comply": 1,
+    "partially_comply": 7,
+    "deviate": 0,
+    "unaddressed": 0,
+    "gaps": [],
+    "coverage_pct": 100.0,
+    "avg_confidence": 70.2
+  },
+  "General Terms": {
+    "total": 7,
+    "answered": 7,
+    "comply": 1,
+    "partially_comply": 4,
+    "deviate": 2,
+    "unaddressed": 0,
+    "gaps": [
+      "REQ-073",
+      "REQ-077"
+    ],
+    "coverage_pct": 100.0,
+    "avg_confidence": 68.2
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "contract": "Bidboard rule-contract vectors. Each vector is evaluated standalone: match_requirement() on the embedded mini-library, then decide_action() and disposition_for(). Both the Python pipeline (tests/test_vectors.py) and the in-browser TypeScript mirror (web/src/rules.test.ts) must reproduce these expected values exactly.",
+  "note": "The TS mirror covers this 8-vector subset only. Full-corpus matching (78 requirements x 70-entry library), the compliance matrix, and the golden-set eval are Python-only because the full payload is pipeline-generated.",
+  "vectors": [
+    {
+      "id": "V1",
+      "input": {
+        "requirement_text": "The vendor must provide monthly uptime reports and real-time service status dashboards.",
+        "category": "availability",
+        "library": [
+          {
+            "id": "ANS-A",
+            "owner": "Support Operations",
+            "category": "availability",
+            "title": "Monthly uptime reports and status dashboard",
+            "keywords": [
+              "uptime",
+              "reports",
+              "monthly",
+              "status",
+              "dashboard",
+              "availability"
+            ],
+            "answer": "We publish monthly uptime reports and maintain a real-time service status dashboard showing system availability."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-A",
+        "confidence": 79.1,
+        "action": "EDIT_THEN_SUBMIT",
+        "disposition": "PARTIALLY_COMPLY",
+        "needs_gate": false
+      }
+    },
+    {
+      "id": "V2",
+      "input": {
+        "requirement_text": "The vendor must describe the recommended approach to testing and the level of County staff engagement.",
+        "category": "implementation",
+        "library": [
+          {
+            "id": "ANS-B",
+            "owner": "Professional Services",
+            "category": "implementation",
+            "title": "Testing approach with UAT gate",
+            "keywords": [
+              "testing",
+              "unit",
+              "integration",
+              "user",
+              "acceptance",
+              "uat",
+              "defects",
+              "scripts"
+            ],
+            "answer": "Our testing approach covers unit, system integration, and user acceptance testing with County staff."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-B",
+        "confidence": 40.7,
+        "action": "SME_NEEDED",
+        "disposition": "DEVIATE",
+        "needs_gate": true
+      }
+    },
+    {
+      "id": "V3",
+      "input": {
+        "requirement_text": "Proposals must be received by the Deputy County Administrator no later than May 9, 2025.",
+        "category": "submittal",
+        "library": [
+          {
+            "id": "ANS-C",
+            "owner": "Solution Delivery",
+            "category": "submittal",
+            "title": "Executive Summary narrative",
+            "keywords": [
+              "executive",
+              "summary",
+              "narrative",
+              "solution",
+              "overview"
+            ],
+            "answer": "Our Executive Summary is a concise narrative of the proposed solution."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-C",
+        "confidence": 15.0,
+        "action": "NO_ANSWER",
+        "disposition": "UNADDRESSED",
+        "needs_gate": false
+      }
+    },
+    {
+      "id": "V4",
+      "input": {
+        "requirement_text": "Each offeror must acknowledge receipt of every addendum, confirming number and date, in its proposal.",
+        "category": "contract",
+        "library": [
+          {
+            "id": "ANS-D",
+            "owner": "Contracts & Compliance",
+            "category": "contract",
+            "title": "Addendum acknowledgment",
+            "keywords": [
+              "addendum",
+              "acknowledge",
+              "received"
+            ],
+            "answer": "We acknowledge every addendum in our proposal by number and date."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-D",
+        "confidence": 50.8,
+        "action": "SME_NEEDED",
+        "disposition": "DEVIATE",
+        "needs_gate": true
+      }
+    },
+    {
+      "id": "V5",
+      "input": {
+        "requirement_text": "The solution must be HIPAA compliant for protected health information.",
+        "category": "security",
+        "library": [
+          {
+            "id": "ANS-Z",
+            "owner": "InfoSec Office",
+            "category": "security",
+            "title": "HIPAA compliance",
+            "keywords": [
+              "hipaa",
+              "phi",
+              "protected",
+              "health",
+              "compliant"
+            ],
+            "answer": "Our platform is HIPAA compliant for protected health information."
+          },
+          {
+            "id": "ANS-A",
+            "owner": "InfoSec Office",
+            "category": "security",
+            "title": "HIPAA compliance duplicate",
+            "keywords": [
+              "hipaa",
+              "phi",
+              "protected",
+              "health",
+              "compliant"
+            ],
+            "answer": "Our platform is HIPAA compliant for protected health information."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-A",
+        "confidence": 88.8,
+        "action": "SUBMIT_AS_IS",
+        "disposition": "COMPLY",
+        "needs_gate": false
+      }
+    },
+    {
+      "id": "V6",
+      "input": {
+        "requirement_text": "Employees will have the ability to submit corrections to their timesheets within an open pay period.",
+        "category": "scope",
+        "library": [
+          {
+            "id": "ANS-E",
+            "owner": "Product Team",
+            "category": "scope",
+            "title": "Timesheet corrections in open pay period",
+            "keywords": [
+              "timesheet",
+              "corrections",
+              "open",
+              "period",
+              "audit"
+            ],
+            "answer": "Employees can view, correct, and resubmit timesheets inside an open pay period with supervisor approval."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-E",
+        "confidence": 79.1,
+        "action": "EDIT_THEN_SUBMIT",
+        "disposition": "PARTIALLY_COMPLY",
+        "needs_gate": false
+      }
+    },
+    {
+      "id": "V7",
+      "input": {
+        "requirement_text": "The vendor must carry public liability insurance and deliver Certificates of Insurance.",
+        "category": "contract",
+        "library": [
+          {
+            "id": "ANS-F",
+            "owner": "Contracts & Compliance",
+            "category": "security",
+            "title": "Cyber liability insurance",
+            "keywords": [
+              "cyber",
+              "liability",
+              "insurance",
+              "additional",
+              "insured"
+            ],
+            "answer": "We carry cyber liability and technology errors-and-omissions insurance and name the County as additional insured."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-F",
+        "confidence": 25.0,
+        "action": "NO_ANSWER",
+        "disposition": "UNADDRESSED",
+        "needs_gate": false
+      }
+    },
+    {
+      "id": "V8",
+      "input": {
+        "requirement_text": "Insurance.",
+        "category": "contract",
+        "library": [
+          {
+            "id": "ANS-G",
+            "owner": "Contracts & Compliance",
+            "category": "contract",
+            "title": "Public liability insurance and certificates",
+            "keywords": [
+              "public",
+              "liability",
+              "insurance",
+              "certificates"
+            ],
+            "answer": "We carry public liability insurance at the required limits and deliver Certificates of Insurance."
+          }
+        ]
+      },
+      "expected": {
+        "entry_id": "ANS-G",
+        "confidence": 70.0,
+        "action": "EDIT_THEN_SUBMIT",
+        "disposition": "PARTIALLY_COMPLY",
+        "needs_gate": false
+      }
+    }
+  ]
+}
