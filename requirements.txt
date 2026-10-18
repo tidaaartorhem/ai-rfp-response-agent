@@ -1,0 +1,6 @@
+# Dev/test dependencies for the Python pipeline. The pipeline itself uses
+# only the standard library (no LLM calls, no third-party packages), so it
+# runs anywhere Python 3.10+ is installed. pdfplumber is used only by the
+# one-time RFP extraction step in scripts/fetch_rfp.py.
+pytest>=8.0
+pdfplumber>=0.11
