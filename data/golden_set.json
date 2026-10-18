@@ -1,0 +1,125 @@
+{
+  "note": "Hand-labeled 2026-10-18 from the Shenandoah County RFP 2025-002 requirement set. expected is the judged-correct library entry id, or NONE when no entry should clear the 40-point bar. Three rows (REQ-052, REQ-034, REQ-039) are labeled against the engine's top-1 as known misses.",
+  "rows": [
+    {
+      "requirement_id": "REQ-006",
+      "expected": "ANS-006"
+    },
+    {
+      "requirement_id": "REQ-008",
+      "expected": "ANS-008"
+    },
+    {
+      "requirement_id": "REQ-010",
+      "expected": "ANS-010"
+    },
+    {
+      "requirement_id": "REQ-013",
+      "expected": "ANS-013"
+    },
+    {
+      "requirement_id": "REQ-015",
+      "expected": "ANS-015"
+    },
+    {
+      "requirement_id": "REQ-016",
+      "expected": "ANS-015"
+    },
+    {
+      "requirement_id": "REQ-017",
+      "expected": "ANS-016"
+    },
+    {
+      "requirement_id": "REQ-021",
+      "expected": "ANS-018"
+    },
+    {
+      "requirement_id": "REQ-022",
+      "expected": "ANS-017"
+    },
+    {
+      "requirement_id": "REQ-025",
+      "expected": "ANS-019"
+    },
+    {
+      "requirement_id": "REQ-029",
+      "expected": "ANS-023"
+    },
+    {
+      "requirement_id": "REQ-030",
+      "expected": "ANS-014"
+    },
+    {
+      "requirement_id": "REQ-033",
+      "expected": "ANS-027"
+    },
+    {
+      "requirement_id": "REQ-035",
+      "expected": "ANS-028"
+    },
+    {
+      "requirement_id": "REQ-040",
+      "expected": "ANS-033"
+    },
+    {
+      "requirement_id": "REQ-042",
+      "expected": "ANS-035"
+    },
+    {
+      "requirement_id": "REQ-045",
+      "expected": "ANS-038"
+    },
+    {
+      "requirement_id": "REQ-046",
+      "expected": "ANS-039"
+    },
+    {
+      "requirement_id": "REQ-053",
+      "expected": "ANS-046"
+    },
+    {
+      "requirement_id": "REQ-054",
+      "expected": "ANS-047"
+    },
+    {
+      "requirement_id": "REQ-055",
+      "expected": "ANS-048"
+    },
+    {
+      "requirement_id": "REQ-062",
+      "expected": "ANS-055"
+    },
+    {
+      "requirement_id": "REQ-064",
+      "expected": "ANS-057"
+    },
+    {
+      "requirement_id": "REQ-066",
+      "expected": "ANS-058"
+    },
+    {
+      "requirement_id": "REQ-070",
+      "expected": "ANS-061"
+    },
+    {
+      "requirement_id": "REQ-052",
+      "expected": "ANS-062"
+    },
+    {
+      "requirement_id": "REQ-034",
+      "expected": "ANS-027"
+    },
+    {
+      "requirement_id": "REQ-039",
+      "expected": "ANS-032"
+    },
+    {
+      "requirement_id": "REQ-004",
+      "expected": "NONE"
+    },
+    {
+      "requirement_id": "REQ-018",
+      "expected": "NONE"
+    }
+  ]
+}
